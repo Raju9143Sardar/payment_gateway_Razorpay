@@ -28,7 +28,7 @@
 
         <!--======== for payment gateway =========-->
         <meta-data android:name="com.razorpay.Checkout.key"
-            android:value="PaymentKeyId" />
+            android:value="rzp_test_NMYQpu5T4dazyK" />
         <meta-data android:name="com.razorpay.Checkout.name"
             android:value="@string/app_name" />
 
