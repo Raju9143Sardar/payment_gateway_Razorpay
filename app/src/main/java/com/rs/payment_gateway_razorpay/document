@@ -1,0 +1,5 @@
+Q) How to implement payment Gateway in Razorpay ?
+=>
+================== Step 1 ===============
+add setting in build.gradle(app)
+
