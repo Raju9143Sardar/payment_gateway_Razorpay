@@ -17,7 +17,7 @@ import org.json.JSONObject
 
 class PaymentActivity : AppCompatActivity() , PaymentResultWithDataListener {
     private lateinit var binding: ActivityPaymentBinding
-    private val PaymentKeyId = "PaymentActivity"
+    private val PaymentKeyId = "rzp_test_NMYQpu5T4dazyK"
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
